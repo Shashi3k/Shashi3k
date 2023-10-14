@@ -19,13 +19,6 @@ Exploring the fascinating world of Web3 technologies, including blockchain and d
 
 👨‍💻 Contribute: I'm eager to contribute to open-source projects and initiatives that align with my interests.
 
-📫 Connect With Me:
-
-GitHub: Shashi3k
-
-LinkedIn: in/shashi-ranjan-b647b6281/
-
-Twitter: @Shashi3k
 
  ![Picture1](https://github.com/Shashi3k/marketplace-eth1/assets/139968956/a5498b8c-b586-4241-8668-c06c081c4daa)
 
