@@ -1,7 +1,5 @@
 👋 Hi, I'm Shashi!
 
-I'm passionate about Web3, Data Structures and Algorithms, and Artificial Intelligence. Currently, I'm diving deep into DSA and Web3 technologies, exploring their limitless possibilities.
-
 🌱 What I'm Currently Doing:
 
 Learning Data Structures and Algorithms to strengthen my problem-solving skills.
