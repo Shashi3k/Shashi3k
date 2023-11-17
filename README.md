@@ -12,8 +12,8 @@
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"> 
 <p align="left">
 <a href="https://twitter.com/Shashi3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suraj.s_07_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shashi3k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="suraj.s_07_" height="30" width="40" /></a>
-<a href="https://leetcode.com/Shashi3k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajs0925" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shashi3k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="shashi3k" height="30" width="40" /></a>
+<a href="https://leetcode.com/Shashi3k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shashi3k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
