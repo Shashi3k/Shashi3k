@@ -1,4 +1,4 @@
-![logo](https://github.com/Shashi3k/Shashi/blob/main/github-header.png)
+![logo](https://github.com/Shashi3k/Shasi/blob/main/github-header.png)
 <h1 align="center">Hi 👋, I'm Shashi</h1>
 <h3 align="center">A passionate Student learning Machine learning in Python, solidity in blockchain Data Structures, and Algorithms to improve my problem-solving skills. I am very much interested in exploring various projects in Machine learning and AIML applications</h3>
 
