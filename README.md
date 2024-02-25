@@ -9,7 +9,6 @@
 - 📫 How to reach me **shashi3k3k@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"> 
 <p align="left">
 <a href="https://twitter.com/Shashi3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suraj.s_07_" height="30" width="40" /></a>
 <a href="https://leetcode.com/Shashi3k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shashi3k" height="30" width="40" /></a>
@@ -20,5 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajs0925&show_icons=true&locale=en&layout=compact" alt="surajs0925" /></p>
 
-<h2>Badges</h2>
-[![An image of @shashi3k7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashi3k7)](https://holopin.io/@shashi3k7)
